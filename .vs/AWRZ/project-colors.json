@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3f9a4dca-7600-4b82-ac85-8d535ac00f27": {
+      "ProjectGuid": "3f9a4dca-7600-4b82-ac85-8d535ac00f27",
+      "DisplayName": "AWRZ",
+      "ColorIndex": 0
+    },
+    "c641ecea-1eb7-49fb-8f40-99405004eb26": {
+      "ProjectGuid": "c641ecea-1eb7-49fb-8f40-99405004eb26",
+      "DisplayName": "AWRZ.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31808.319
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWRZ", "AWRZ\AWRZ.csproj", "{3F9A4DCA-7600-4B82-AC85-8D535AC00F27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWRZ.Tests", "AWRZ.Tests\AWRZ.Tests.csproj", "{C641ECEA-1EB7-49FB-8F40-99405004EB26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F9A4DCA-7600-4B82-AC85-8D535AC00F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F9A4DCA-7600-4B82-AC85-8D535AC00F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F9A4DCA-7600-4B82-AC85-8D535AC00F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F9A4DCA-7600-4B82-AC85-8D535AC00F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C641ECEA-1EB7-49FB-8F40-99405004EB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C641ECEA-1EB7-49FB-8F40-99405004EB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C641ECEA-1EB7-49FB-8F40-99405004EB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C641ECEA-1EB7-49FB-8F40-99405004EB26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38274068-D136-4038-BE8C-142C1388C3C2}
+	EndGlobalSection
+EndGlobal
